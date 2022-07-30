@@ -9,7 +9,7 @@ I'm a full stack developer...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsn0x)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hsn_0x)
 
-# Marketplace Express Sequelize Backend API
+# Marketplace Express Prisma Backend API
 
 Multiple Stores Listing Backend API
 
@@ -27,14 +27,14 @@ on progress
 
 ## Tech Stack
 
-**Server:** Node, Express, Sequelize
+**Server:** Node, Express, Prisma
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/hsn0x/marketplace-express-sequelize-backend.git
+  git clone https://github.com/hsn0x/marketplace-express-prisma-backend.git
 ```
 
 Go to the project directory
@@ -69,15 +69,17 @@ To run this project, you will need to add the following environment variables to
 
 `NODE_ENV`
 
-### Sequelize
+### Prisma
 
-`SEQUELIZE_DB_DATABASE`
-`SEQUELIZE_DB_USERNAME`
-`SEQUELIZE_DB_PASSWORD`
-`SEQUELIZE_DB_HOSTNAME`
-`SEQUELIZE_DB_PORT`
-`SEQUELIZE_DB_DIALECT`
-`SEQUELIZE_DB_LOGGING`
+`PRISMA_DB_DATABASE`
+`PRISMA_DB_USERNAME`
+`PRISMA_DB_PASSWORD`
+`PRISMA_DB_HOSTNAME`
+`PRISMA_DB_PORT`
+`PRISMA_DB_DIALECT`
+`PRISMA_DB_LOGGING`
+
+# EXPRESS
 
 `EXPRESS_HOST`
 `EXPRESS_PORT`
