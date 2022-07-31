@@ -1,6 +1,6 @@
 {
     "name": "marketplace-express-sequelize-backend",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Marketplace with multi stores, products, members",
     "main": "src/index.js",
     "author": "Hassane Bendaoud <40140987+hsn0x@users.noreply.github.com>",
